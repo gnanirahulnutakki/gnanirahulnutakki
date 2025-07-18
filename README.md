@@ -189,13 +189,36 @@ As a passionate **Cloud Engineer** with **8+ years of experience**, I thrive on 
 
 ---
 
-## 🎨 Fun Facts
+## 🎨 Fun Facts & Personal Interests
 
-- 🥾 **Avid Hiker**: Finding inspiration in nature's intricate systems
-- 📸 **Amateur Photographer**: Capturing the beauty of cloud formations (both digital and natural!)
-- 🤖 **AI Experimenter**: Building personal AI assistants and automating daily workflows
-- 🎯 **Prompt Engineering Enthusiast**: Crafting perfect prompts for maximum LLM performance
-- 🌱 **Mentor**: Guiding 50+ aspiring cloud and AI/ML professionals
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        
+- 📚 **Avid Reader**: Always exploring new ideas and perspectives
+- 🗳️ **Political Enthusiast**: Engaged in understanding global dynamics
+- 🤖 **AI Experimenter**: Building personal AI assistants and automating workflows
+- 👥 **Mentor**: Guiding internal teams and aspiring professionals
+- 📸 **Amateur Photographer**: Capturing moments and cloud formations
+- 🏓 **Pickleball Player**: Love the fast-paced action on the court
+- 🏀 **Basketball Fan**: Michael Jordan is the GOAT, no debate!
+        
+      </td>
+      <td width="50%">
+        
+- 🇮🇳 **Proud Indian/Hindu**: Celebrating cultural heritage and values
+- 💭 **Progressive Thinker**: Always open to new ideas and innovations
+- 🍻 **Debate Enthusiast**: Love debates that end with drinks and laughter
+- ✈️ **Traveller**: Exploring new cultures and destinations
+- 📈 **Investor**: Building wealth through strategic investments
+- 💻 **Amateur Vibe Coder**: Creating good vibes through code
+- 🎯 **Prompt Engineering**: Crafting perfect prompts for LLMs
+        
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 

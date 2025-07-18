@@ -53,14 +53,17 @@ As a passionate **Cloud Engineer** with **8+ years of experience**, I thrive on 
     <tr>
       <td align="center" width="50%">
         <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Vellore_Institute_of_Technology_seal_2017.svg/1200px-Vellore_Institute_of_Technology_seal_2017.svg.png" width="80" height="80">
-        <br><strong>Bachelor of Technology</strong><br>
+        <br><br>
+        <strong>Bachelor of Technology</strong><br>
         <em>VIT University, Vellore, TN, India</em><br>
         Communications Engineering<br>
         <strong>Specialization:</strong> Neural Networks
       </td>
       <td align="center" width="50%">
-        <img src="https://brand.iit.edu/sites/brand/files/2022-10/2020_1.5x_horizontal-red.png" width="120" height="60">
-        <br><strong>Master of Science</strong><br>
+        <br>
+        <strong>🎓 IIT Chicago</strong>
+        <br><br>
+        <strong>Master of Science</strong><br>
         <em>Illinois Institute of Technology, Chicago, IL, USA</em><br>
         Data Science<br>
         <strong>Specialization:</strong> Natural Language Processing

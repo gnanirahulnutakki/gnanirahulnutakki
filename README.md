@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I'm Gnani Rahul Nutakki!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Cloud+Architect+%7C+AI%2FML+Engineer;8%2B+Years+of+Innovation;AWS+%7C+Azure+%7C+Google+Cloud+Expert;Building+the+Future+of+Cloud+%26+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Cloud+Architect+%7C+AI%2FML+Engineer+%7C+DevSecOps;IAM+%7C+Identity+Security+Posture+Management;Cyber+Security+%7C+SOC2+%7C+Open+Source+Contributor;SaaS+%7C+PaaS+%7C+IaaC+%7C+DevOps+Expert;8%2B+Years+of+Innovation+in+Cloud+%26+Security;Building+the+Future+of+Secure+Cloud+Infrastructure" alt="Typing SVG" />
 </div>
 
 <div align="center">

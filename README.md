@@ -21,8 +21,9 @@ As a passionate **Cloud Engineer** with **8+ years of experience**, I thrive on 
 
 - 🔧 **Problem Solver**: Architecting scalable solutions for Fortune 500 companies
 - 💡 **Innovation Enthusiast**: Pioneering AI/ML integration in cloud environments
-- 🌌 **Space Technology Explorer**: Contributing to satellite data processing systems
-- 🤖 **AI/LLM Pioneer**: Building next-gen applications with GPT, Claude, and custom models
+- 🤖 **AI/LLM Pioneer**: Building Agentic AI systems with GPT, Claude, and custom models
+- 🔐 **DevSecOps Advocate**: Integrating security into every phase of development
+- 🚀 **MLOps Expert**: Streamlining ML model deployment and monitoring
 - 🌱 **Continuous Learner**: Always exploring emerging technologies
 
 ---
@@ -37,7 +38,8 @@ As a passionate **Cloud Engineer** with **8+ years of experience**, I thrive on 
 | **Performance Optimization** | 50% application performance boost |
 | **Disaster Recovery Design** | RTO reduced from 24h to 2h |
 | **AI/ML Pipeline Implementation** | 80% faster model deployment |
-| **Satellite Data Processing** | Real-time analysis for 1TB+ daily |
+| **Agentic AI Systems** | Built autonomous agents handling 10K+ daily tasks |
+| **DevSecOps Transformation** | Zero security incidents post-implementation |
 
 </div>
 
@@ -76,20 +78,15 @@ As a passionate **Cloud Engineer** with **8+ years of experience**, I thrive on 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100" height="100">
-        <br><strong>Cloud Native</strong><br>
-        Building serverless architectures and microservices
-      </td>
-      <td align="center" width="33%">
+      <td align="center" width="50%">
         <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" height="100">
-        <br><strong>AI/ML Integration</strong><br>
-        Deploying LLMs and ML pipelines at scale
+        <br><strong>AI/ML & LLM Engineering</strong><br>
+        Agentic AI, Prompt Engineering, RAG Systems
       </td>
-      <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif" width="100" height="100">
-        <br><strong>Space Technology</strong><br>
-        Satellite data processing and analysis systems
+      <td align="center" width="50%">
+        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" height="100">
+        <br><strong>DevOps & MLOps</strong><br>
+        DevSecOps, CI/CD, Model Deployment Pipelines
       </td>
     </tr>
   </table>
@@ -99,20 +96,23 @@ As a passionate **Cloud Engineer** with **8+ years of experience**, I thrive on 
 
 ## 🚀 Recent Projects & Innovations
 
-### 🤖 AI/LLM Implementations
+### 🤖 AI/LLM & Agentic Systems
 - **Enterprise RAG System**: Built a Retrieval-Augmented Generation system processing 10M+ documents
 - **Multi-Model Orchestration**: Integrated GPT-4, Claude, and Llama models for optimal task routing
-- **AI-Powered DevOps**: Automated infrastructure optimization using ML predictions
+- **Agentic AI Framework**: Developed autonomous agents for code review, testing, and deployment
+- **Prompt Engineering Platform**: Created reusable prompt templates improving accuracy by 40%
 
-### 🛰️ Space Technology
-- **Satellite Image Processing**: Real-time analysis pipeline for Earth observation data
-- **Space Weather Monitoring**: Cloud-based system for solar activity prediction
-- **Orbital Debris Tracking**: ML models for space object trajectory prediction
+### 🔐 DevSecOps & MLOps
+- **ML Pipeline Automation**: End-to-end MLOps platform reducing model deployment time by 85%
+- **Security-First CI/CD**: Implemented DevSecOps practices with automated vulnerability scanning
+- **Model Monitoring System**: Real-time performance tracking for 100+ production ML models
+- **GitOps Implementation**: Infrastructure as Code with automated drift detection
 
-### ☁️ Cloud Architecture
+### ☁️ Cloud Architecture & Innovation
 - **Multi-Region Disaster Recovery**: Zero-downtime failover across 5 AWS regions
 - **Hybrid Cloud Federation**: Seamless workload migration between AWS, Azure, and on-premise
 - **Cost Optimization Engine**: AI-driven resource allocation saving $2M+ annually
+- **Serverless ML Inference**: Reduced inference costs by 70% using AWS Lambda and SageMaker
 
 ---
 
@@ -165,9 +165,9 @@ As a passionate **Cloud Engineer** with **8+ years of experience**, I thrive on 
 
 - 🥾 **Avid Hiker**: Finding inspiration in nature's intricate systems
 - 📸 **Amateur Photographer**: Capturing the beauty of cloud formations (both digital and natural!)
-- 🌌 **Space Enthusiast**: Following every SpaceX launch and NASA mission
-- 🤖 **AI Experimenter**: Building personal AI assistants in my spare time
-- 🌱 **Mentor**: Guiding 50+ aspiring cloud professionals
+- 🤖 **AI Experimenter**: Building personal AI assistants and automating daily workflows
+- 🎯 **Prompt Engineering Enthusiast**: Crafting perfect prompts for maximum LLM performance
+- 🌱 **Mentor**: Guiding 50+ aspiring cloud and AI/ML professionals
 
 ---
 

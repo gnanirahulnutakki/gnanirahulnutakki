@@ -59,8 +59,8 @@ As a passionate **Cloud Engineer** with **8+ years of experience**, I thrive on 
         <strong>Specialization:</strong> Neural Networks
       </td>
       <td align="center" width="50%">
-        <h3>🎓 IIT Chicago</h3>
-        <strong>Master of Science</strong><br>
+        <img src="https://brand.iit.edu/sites/brand/files/2022-10/2020_1.5x_horizontal-red.png" width="120" height="60">
+        <br><strong>Master of Science</strong><br>
         <em>Illinois Institute of Technology, Chicago, IL, USA</em><br>
         Data Science<br>
         <strong>Specialization:</strong> Natural Language Processing
@@ -118,10 +118,10 @@ As a passionate **Cloud Engineer** with **8+ years of experience**, I thrive on 
 
 <div align="center">
   
-| <img src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="60" height="60"> | <img src="https://images.credly.com/size/680x680/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" width="60" height="60"> | <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="60" height="60"> | <img src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="60" height="60"> |
-|:---:|:---:|:---:|:---:|
-| **KCNA** | **CKAD** | **AWS Solutions Architect** | **AWS Developer Associate** |
-| Kubernetes and Cloud Native Associate | Certified Kubernetes Application Developer | Solutions Architect - Associate | Developer - Associate |
+| <img src="https://images.credly.com/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" width="60" height="60"> | <img src="https://images.credly.com/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" width="60" height="60"> | <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="60" height="60"> | <img src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="60" height="60"> | <img src="https://images.credly.com/size/680x680/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" width="60" height="60"> |
+|:---:|:---:|:---:|:---:|:---:|
+| **KCNA** | **CKAD** | **AWS Solutions Architect** | **AWS Developer Associate** | **Terraform Associate** |
+| Kubernetes and Cloud Native Associate | Certified Kubernetes Application Developer | Solutions Architect - Associate | Developer - Associate | HashiCorp Certified |
 
 </div>
 

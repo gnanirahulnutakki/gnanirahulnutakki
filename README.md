@@ -59,8 +59,8 @@ As a passionate **Cloud Engineer** with **8+ years of experience**, I thrive on 
         <strong>Specialization:</strong> Neural Networks
       </td>
       <td align="center" width="50%">
-        <img src="https://www.iit.edu/sites/default/files/2020-12/iit_logo_red_186.png" width="80" height="80">
-        <br><strong>Master of Science</strong><br>
+        <h3>🎓 IIT</h3>
+        <strong>Master of Science</strong><br>
         <em>Illinois Institute of Technology, Chicago, IL, USA</em><br>
         Data Science<br>
         <strong>Specialization:</strong> Natural Language Processing

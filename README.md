@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I'm Rahul Nutakki!
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I'm Gnani Rahul Nutakki!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Cloud+Architect+%7C+AI%2FML+Engineer;8%2B+Years+of+Innovation;AWS+%7C+Azure+%7C+Google+Cloud+Expert;Building+the+Future+of+Cloud+%26+AI" alt="Typing SVG" />
@@ -42,6 +42,31 @@ As a passionate **Cloud Engineer** with **8+ years of experience**, I thrive on 
 | **Agentic AI Systems** | Built autonomous agents handling 10K+ daily tasks |
 | **DevSecOps Transformation** | Zero security incidents post-implementation |
 
+    </div>
+
+---
+
+## 🎓 Education
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Vellore_Institute_of_Technology_seal_2017.svg/1200px-Vellore_Institute_of_Technology_seal_2017.svg.png" width="80" height="80">
+        <br><strong>Bachelor of Technology</strong><br>
+        <em>VIT University, Vellore, TN, India</em><br>
+        Communications Engineering<br>
+        <strong>Specialization:</strong> Neural Networks
+      </td>
+      <td align="center" width="50%">
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/IIT_Chicago_Logo.svg/1200px-IIT_Chicago_Logo.svg.png" width="80" height="80">
+        <br><strong>Master of Science</strong><br>
+        <em>Illinois Institute of Technology, Chicago, IL, USA</em><br>
+        Data Science<br>
+        <strong>Specialization:</strong> Natural Language Processing
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---

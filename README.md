@@ -59,7 +59,7 @@ As a passionate **Cloud Engineer** with **8+ years of experience**, I thrive on 
         <strong>Specialization:</strong> Neural Networks
       </td>
       <td align="center" width="50%">
-        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/IIT_Chicago_Logo.svg/1200px-IIT_Chicago_Logo.svg.png" width="80" height="80">
+        <img src="https://www.iit.edu/sites/default/files/2020-12/iit_logo_red_186.png" width="80" height="80">
         <br><strong>Master of Science</strong><br>
         <em>Illinois Institute of Technology, Chicago, IL, USA</em><br>
         Data Science<br>

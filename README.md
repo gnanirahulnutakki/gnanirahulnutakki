@@ -12,6 +12,34 @@
 
 ---
 
+## 🌱 Open-Source Engineering
+
+I contribute to **AI agents, model SDKs, observability, inference, and
+cloud-native tooling**. My work is deliberately evidence-first: focused
+patches, reproducible review findings, local verification, and respectful
+maintainer follow-up.
+
+<div align="center">
+  <a href="https://github.com/gnanirahulnutakki/oss-contribution-tracker">
+    <img src="https://img.shields.io/badge/Live_Contribution_Tracker-181717?style=for-the-badge&logo=github&logoColor=white" alt="Live contribution tracker"/>
+  </a>
+  <a href="https://github.com/gnanirahulnutakki/oss-contribution-tracker/actions/workflows/ci.yml">
+    <img src="https://github.com/gnanirahulnutakki/oss-contribution-tracker/actions/workflows/ci.yml/badge.svg" alt="Tracker validation status"/>
+  </a>
+  <a href="https://github.com/gnanirahulnutakki/oss-contribution-tracker/actions/workflows/update.yml">
+    <img src="https://github.com/gnanirahulnutakki/oss-contribution-tracker/actions/workflows/update.yml/badge.svg" alt="Daily refresh status"/>
+  </a>
+</div>
+
+- **Current focus:** agent runtimes and evaluation, LLM observability,
+  inference and serving, OpenTelemetry, Kubernetes, and Prometheus.
+- **[Public contribution tracker](https://github.com/gnanirahulnutakki/oss-contribution-tracker):**
+  live PR and review status, CI evidence, maintainer responses, and next actions.
+- **[Contribution playbook](https://github.com/gnanirahulnutakki/oss-contribution-tracker/blob/main/docs/CONTRIBUTION_PLAYBOOK.md):**
+  quality gates, concurrency limits, anti-spam rules, and follow-up discipline.
+
+---
+
 ## 🚀 About Me
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
@@ -182,16 +210,6 @@ As a passionate **Cloud Engineer** with **8+ years of experience**, I thrive on 
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gnanirahulnutakki&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph">
-</div>
-
----
-
-## 🌱 Open Source Contributions
-
-<div align="center">
-  <a href="https://github.com/gnanirahulnutakki">
-    <img src="https://github-contributor-stats.vercel.app/api?username=gnanirahulnutakki&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos">
-  </a>
 </div>
 
 ---

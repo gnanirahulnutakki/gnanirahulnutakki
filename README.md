@@ -17,8 +17,8 @@ explicit test results, and respectful maintainer follow-up.
 
 The
 [public contribution tracker](https://github.com/gnanirahulnutakki/oss-contribution-tracker)
-is the source of truth for my upstream pull requests, substantive reviews, CI
-evidence, maintainer responses, and next actions.
+is the source of truth for my tracked upstream pull requests, substantive
+reviews, CI evidence, maintainer responses, and next actions.
 
 Current focus:
 
@@ -32,18 +32,18 @@ Recent review outcomes:
 | Project | Work reviewed | Verifiable outcome |
 | --- | --- | --- |
 | [Helm](https://github.com/helm/helm) | [Cache-busting for Helm version checks](https://github.com/helm/helm/pull/32339#pullrequestreview-4790630703) | Review landed; PR merged on the reviewed head after 7 passing checks |
-| [Microsoft Agent Framework](https://github.com/microsoft/agent-framework) | [OpenAI instructions support for the Responses API](https://github.com/microsoft/agent-framework/pull/7292#pullrequestreview-4776007573) | Review landed; PR merged after 37 passing checks |
-| [Browser Use](https://github.com/browser-use/browser-use) | [Minimal model state after capture timeout](https://github.com/browser-use/browser-use/pull/5300#pullrequestreview-4776211914) | Review landed; PR merged after 96 passing checks |
+| [Microsoft Agent Framework](https://github.com/microsoft/agent-framework) | [OpenAI instructions support for the Responses API](https://github.com/microsoft/agent-framework/pull/7292#pullrequestreview-4776007573) | Review landed; PR merged after 37 non-failing checks |
+| [Browser Use](https://github.com/browser-use/browser-use) | [Minimal model state after capture timeout](https://github.com/browser-use/browser-use/pull/5300#pullrequestreview-4776211914) | Review landed; PR merged after 96 non-failing checks |
 
-I pause new implementation work whenever the upstream portfolio exceeds four
-open authored PRs. The
+I pause new implementation work whenever the upstream portfolio has four or
+more open authored PRs. The
 [contribution playbook](https://github.com/gnanirahulnutakki/oss-contribution-tracker/blob/main/docs/CONTRIBUTION_PLAYBOOK.md)
 documents the quality gates, legacy-lane handling, review cadence, and
 anti-spam rules behind that work.
 
 ## Selected public engineering
 
-- [Ardur](https://github.com/ArdurAI/ardur-agent) — high-assurance agent
+- [Ardur](https://github.com/ArdurAI/ardur-agent) — security-focused agent
   infrastructure with capability controls, policy enforcement, receipts, and
   local-first execution.
 - [Sith](https://github.com/ArdurAI/sith) — cloud-native fleet operations and

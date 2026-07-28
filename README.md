@@ -9,16 +9,18 @@ inference, identity, Kubernetes, and software supply-chain security. My
 open-source work is evidence-first: narrow changes, reproducible findings,
 explicit test results, and respectful maintainer follow-up.
 
-[![Live contribution tracker](https://img.shields.io/badge/live_contribution_tracker-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gnanirahulnutakki/oss-contribution-tracker)
+[![Live contribution tracker](https://img.shields.io/badge/live_contribution_tracker-181717?style=flat-square&logo=github&logoColor=white)](https://gnanirahulnutakki.github.io/oss-contribution-tracker/)
 [![Tracker validation status](https://github.com/gnanirahulnutakki/oss-contribution-tracker/actions/workflows/ci.yml/badge.svg)](https://github.com/gnanirahulnutakki/oss-contribution-tracker/actions/workflows/ci.yml)
 [![Tracker refresh status](https://github.com/gnanirahulnutakki/oss-contribution-tracker/actions/workflows/update.yml/badge.svg)](https://github.com/gnanirahulnutakki/oss-contribution-tracker/actions/workflows/update.yml)
 
 ## Open-source work
 
 The
-[public contribution tracker](https://github.com/gnanirahulnutakki/oss-contribution-tracker)
-is the source of truth for my tracked upstream pull requests, substantive
-reviews, CI evidence, maintainer responses, and next actions.
+[live public contribution tracker](https://gnanirahulnutakki.github.io/oss-contribution-tracker/)
+shows my tracked upstream pull requests, substantive reviews, CI evidence,
+maintainer responses, and next actions. Its
+[auditable source](https://github.com/gnanirahulnutakki/oss-contribution-tracker)
+is updated only when public evidence materially changes.
 
 Current focus:
 
